@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable cabecera_ajuste
+drawable cabecera_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pie_comprar_login_1
+drawable pie_inicio_login_1
+drawable pie_inicio_session_login_1
+drawable pie_mensajes_login_1
+drawable pie_tareas_login_1
+font relay_open_sans_bold
+font relay_open_sans_bold_italic
+font relay_open_sans_extrabold
+font relay_open_sans_extrabold_italic
+font relay_open_sans_italic
+font relay_open_sans_light
+font relay_open_sans_light_italic
+font relay_open_sans_medium
+font relay_open_sans_medium_italic
+font relay_open_sans_regular
+font relay_open_sans_semibold
+font relay_open_sans_semibold_italic
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Dint1LladosApp
+xml backup_rules
+xml data_extraction_rules

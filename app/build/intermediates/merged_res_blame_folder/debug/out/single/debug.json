@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_extrabold.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_extrabold.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_cabecera_logo.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/cabecera_logo.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_bold.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_bold.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_pie_inicio_login_1.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/pie_inicio_login_1.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_cabecera_ajuste.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/cabecera_ajuste.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_semibold_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_semibold_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_extrabold_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_extrabold_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_medium_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_medium_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_medium.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_medium.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_pie_tareas_login_1.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/pie_tareas_login_1.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_light_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_light_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_pie_inicio_session_login_1.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/pie_inicio_session_login_1.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_regular.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_regular.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_light.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_light.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_pie_mensajes_login_1.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/pie_mensajes_login_1.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_semibold.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_semibold.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/font_relay_open_sans_bold_italic.ttf.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/font/relay_open_sans_bold_italic.ttf"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable-nodpi_pie_comprar_login_1.png.flat",
+        "source": "com.example.dint_1_lladosapp-relay-47:/drawable-nodpi/pie_comprar_login_1.png"
+    },
+    {
+        "merged": "com.example.dint_1_lladosapp-merged_res-51:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.dint_1_lladosapp-main-53:/mipmap-anydpi/ic_launcher.xml"
+    }
+]
