@@ -10,9 +10,11 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
+import com.example.dint_1_lladosapp.R
 import com.example.dint_1_lladosapp.cabecera.Cabecera
 import com.example.dint_1_lladosapp.data.Routes
 import com.example.dint_1_lladosapp.pie.Pie
@@ -26,7 +28,8 @@ fun Preferencias(navController: NavHostController) {
                 .fillMaxWidth()
                 .height(56.dp), titulo = "Preferencias",
                 onLogo = {navController.navigate(Routes.Inicio.routes)},
-                onAjuste = {navController.navigate(Routes.Preferencia.routes)})
+                onAjuste = {navController.navigate(Routes.Preferencia.routes)},
+                ajuste = painterResource(R.drawable.preferencia_verde) )
         },
         bottomBar = {
             Pie(modifier = Modifier
@@ -36,7 +39,10 @@ fun Preferencias(navController: NavHostController) {
                 onComprar = {navController.navigate(Routes.Compras.routes)},
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
-                onInicioSesion = {navController.navigate(Routes.InicioSesion.routes)})
+                onInicioSesion = { navController.navigate(Routes.InicioSesion.routes) },
+                inicio = painterResource(R.drawable.home)
+
+            )
         },
 
         ) { innerPadding ->

@@ -36,7 +36,8 @@ fun Tu1Millon(navController: NavHostController) {
                 onComprar = {navController.navigate(Routes.Compras.routes)},
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
-                onInicioSesion = {navController.navigate(Routes.InicioSesion.routes)})
+                onInicioSesion =  { navController.navigate(Routes.InicioSesion.routes) }
+            )
         },
 
         ) { innerPadding ->

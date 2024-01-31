@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "NeyOUydGYubtYVyg3OKeWv",
     "node": "54:314",
-    "version": "5033676146",
+    "version": "5069348057",
     "component-id": "408d739befcf3d7753af21b1aa2cd3c389ba1459"
   },
   "default": "Pie",
@@ -80,7 +80,7 @@
                 "value": "32.0"
               }
             },
-            "image-content": "inicio_login_1.png",
+            "image-content": "$inicio",
             "scale": "cover"
           },
           {
@@ -106,7 +106,7 @@
                 "value": "32.0"
               }
             },
-            "image-content": "comprar_login_1.png",
+            "image-content": "$comprar",
             "scale": "cover"
           },
           {
@@ -132,7 +132,7 @@
                 "value": "26.0"
               }
             },
-            "image-content": "mensajes_login_1.png",
+            "image-content": "$mensajes",
             "scale": "cover"
           },
           {
@@ -158,7 +158,7 @@
                 "value": "32.0"
               }
             },
-            "image-content": "tareas_login_1.png",
+            "image-content": "$tareas",
             "scale": "cover"
           },
           {
@@ -184,7 +184,7 @@
                 "value": "32.0"
               }
             },
-            "image-content": "inicio_session_login_1.png",
+            "image-content": "$login",
             "scale": "cover"
           }
         ]
@@ -192,8 +192,18 @@
     }
   },
   "parameters": {
+    "inicio": {
+      "data-type": "image",
+      "required": false,
+      "description": ""
+    },
     "onInicio": {
       "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "comprar": {
+      "data-type": "image",
       "required": false,
       "description": ""
     },
@@ -202,13 +212,28 @@
       "required": false,
       "description": ""
     },
+    "mensajes": {
+      "data-type": "image",
+      "required": false,
+      "description": ""
+    },
     "onMensaje": {
       "data-type": "void-callback",
       "required": false,
       "description": ""
     },
+    "tareas": {
+      "data-type": "image",
+      "required": false,
+      "description": ""
+    },
     "onTarea": {
       "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "login": {
+      "data-type": "image",
       "required": false,
       "description": ""
     },
@@ -224,6 +249,13 @@
       "size": {
         "width": 360.0,
         "height": 56.0
+      },
+      "parameters": {
+        "inicio": "inicio_login_1.png",
+        "comprar": "comprar_login_1.png",
+        "mensajes": "mensajes_login_1.png",
+        "tareas": "tareas_login_1.png",
+        "login": "inicio_session_login_1.png"
       }
     }
   ],

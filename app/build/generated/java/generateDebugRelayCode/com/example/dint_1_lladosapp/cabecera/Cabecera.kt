@@ -9,6 +9,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
@@ -19,6 +20,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
 import com.example.dint_1_lladosapp.R
+import com.google.relay.compose.EmptyPainter
 import com.google.relay.compose.RelayContainer
 import com.google.relay.compose.RelayContainerScope
 import com.google.relay.compose.RelayImage
@@ -33,6 +35,7 @@ import com.google.relay.compose.tappable
 fun Cabecera(
     modifier: Modifier = Modifier,
     titulo: String = "",
+    ajuste: Painter = EmptyPainter(),
     onLogo: () -> Unit = {},
     onAjuste: () -> Unit = {}
 ) {
@@ -59,6 +62,7 @@ fun Cabecera(
         )
         Ajuste(
             onAjuste = onAjuste,
+            ajuste = ajuste,
             modifier = Modifier.boxAlign(
                 alignment = Alignment.Center,
                 offset = DpOffset(
@@ -78,6 +82,7 @@ private fun CabeceraPreview() {
             Cabecera(
                 titulo = "Inicio",
                 onLogo = {},
+                ajuste = painterResource(R.drawable.cabecera_ajuste),
                 onAjuste = {},
                 modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f)
             )
@@ -124,10 +129,11 @@ fun Logo(
 @Composable
 fun Ajuste(
     onAjuste: () -> Unit,
+    ajuste: Painter,
     modifier: Modifier = Modifier
 ) {
     RelayImage(
-        image = painterResource(R.drawable.cabecera_ajuste),
+        image = ajuste,
         contentScale = ContentScale.Crop,
         modifier = modifier.tappable(onTap = onAjuste).requiredWidth(24.959999084472656.dp).requiredHeight(27.622400283813477.dp)
     )

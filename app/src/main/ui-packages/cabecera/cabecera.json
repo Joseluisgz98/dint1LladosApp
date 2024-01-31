@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "NeyOUydGYubtYVyg3OKeWv",
     "node": "48:511",
-    "version": "5033638106",
+    "version": "5069643913",
     "component-id": "b8f314da5baa548e53e0c20bb938bf0e592c7ab0"
   },
   "default": "Cabecera",
@@ -134,7 +134,7 @@
                 "value": "27.622400283813477"
               }
             },
-            "image-content": "ajuste.png",
+            "image-content": "$Ajuste",
             "scale": "cover"
           }
         ]
@@ -152,6 +152,11 @@
       "required": false,
       "description": ""
     },
+    "Ajuste": {
+      "data-type": "image",
+      "required": false,
+      "description": ""
+    },
     "onAjuste": {
       "data-type": "void-callback",
       "required": false,
@@ -166,7 +171,8 @@
         "height": 56.0
       },
       "parameters": {
-        "titulo": "Inicio"
+        "titulo": "Inicio",
+        "Ajuste": "ajuste.png"
       }
     }
   ],

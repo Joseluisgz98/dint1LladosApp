@@ -10,9 +10,12 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
+import androidx.navigation.compose.rememberNavController
+import com.example.dint_1_lladosapp.R
 import com.example.dint_1_lladosapp.cabecera.Cabecera
 import com.example.dint_1_lladosapp.data.Routes
 import com.example.dint_1_lladosapp.pie.Pie
@@ -30,14 +33,16 @@ fun Login(navController: NavHostController) {
                 )
         },
         bottomBar = {
-            Pie(modifier = Modifier
-                .fillMaxWidth()
-                .height(56.dp),
+            Pie(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(56.dp),
                 onInicio = {navController.navigate(Routes.Inicio.routes)},
                 onComprar = {navController.navigate(Routes.Compras.routes)},
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
-                onInicioSesion = {navController.navigate(Routes.InicioSesion.routes)})
+                onInicioSesion = {navController.navigate(Routes.InicioSesion.routes)},
+                login = painterResource(R.drawable.login_verde))
         },
 
         ) { innerPadding ->
