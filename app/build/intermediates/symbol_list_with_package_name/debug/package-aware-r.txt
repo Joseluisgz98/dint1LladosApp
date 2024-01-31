@@ -77,6 +77,7 @@ dimen notification_top_pad
 dimen notification_top_pad_large_text
 drawable cabecera_ajuste
 drawable cabecera_logo
+drawable home
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -85,6 +86,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable login_verde
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -102,6 +104,7 @@ drawable pie_inicio_login_1
 drawable pie_inicio_session_login_1
 drawable pie_mensajes_login_1
 drawable pie_tareas_login_1
+drawable preferencia_verde
 font relay_open_sans_bold
 font relay_open_sans_bold_italic
 font relay_open_sans_extrabold
