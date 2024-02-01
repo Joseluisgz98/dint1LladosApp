@@ -1,5 +1,6 @@
 package com.example.dint_1_lladosapp.Vistas
 
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -10,10 +11,15 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
+import com.example.dint_1_lladosapp.R
 import com.example.dint_1_lladosapp.cabecera.Cabecera
 import com.example.dint_1_lladosapp.data.Routes
+import com.example.dint_1_lladosapp.inicio.Inicio
 import com.example.dint_1_lladosapp.pie.Pie
 
 
@@ -26,7 +32,9 @@ fun PaginaInicio(navController: NavHostController) {
                 .fillMaxWidth()
                 .height(56.dp), titulo = "Inicio",
                 onLogo = {navController.navigate(Routes.Inicio.routes)},
-                onAjuste = {navController.navigate(Routes.Preferencia.routes)})
+                onAjuste = {navController.navigate(Routes.Preferencia.routes)},
+                ajuste = painterResource(R.drawable.cabecera_ajuste)
+            )
         },
         bottomBar = {
             Pie(modifier = Modifier
@@ -36,7 +44,12 @@ fun PaginaInicio(navController: NavHostController) {
                 onComprar = {navController.navigate(Routes.Compras.routes)},
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
-                onInicioSesion = { navController.navigate(Routes.InicioSesion.routes) }
+                onInicioSesion = { navController.navigate(Routes.InicioSesion.routes) },
+                inicio = painterResource(R.drawable.pie_inicio_login_1),
+                comprar = painterResource(R.drawable.pie_comprar_login_1),
+                login = painterResource(R.drawable.pie_inicio_session_login_1),
+                mensajes = painterResource(R.drawable.pie_mensajes_login_1),
+                tareas = painterResource(R.drawable.pie_tareas_login_1)
             )
         },
 
@@ -46,17 +59,12 @@ fun PaginaInicio(navController: NavHostController) {
                 .padding(innerPadding),
             verticalArrangement = Arrangement.spacedBy(16.dp),
         ) {
-            Text(
-                modifier = Modifier.padding(8.dp),
-                text =
-                """
-                    This is an example of a scaffold. It uses the Scaffold composable's parameters to create a screen with a simple top app bar, bottom app bar, and floating action button.
-
-                    It also contains some basic inner content, such as this text.
-
-                    You have pressed the floating action button  times.
-                """.trimIndent(),
-            )
+           Inicio(
+               botonComprar = {navController.navigate(Routes.Compras.routes)},
+               textoInicio = AnnotatedString("En 2015 solo tenía 50 euros en mi cuenta del banco dormia en habitaciones con mas de 10 personas y escapaba de mi vida con las drogas.\n" +
+                       "\n" +
+                       "Actualmente no bebo ,no me drogo y no salgo de fiesta. Soy millonario y genero mas de 400k al mes")
+           )
         }
     }
 }

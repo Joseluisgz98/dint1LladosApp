@@ -30,19 +30,24 @@ fun Login(navController: NavHostController) {
                 .height(56.dp), titulo = "Login",
                 onLogo = {navController.navigate(Routes.Inicio.routes)},
                 onAjuste = {navController.navigate(Routes.Preferencia.routes)},
+                ajuste = painterResource(R.drawable.cabecera_ajuste)
                 )
         },
         bottomBar = {
-            Pie(
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .height(56.dp),
+            Pie(modifier = Modifier
+                .fillMaxWidth()
+                .height(56.dp),
                 onInicio = {navController.navigate(Routes.Inicio.routes)},
                 onComprar = {navController.navigate(Routes.Compras.routes)},
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
-                onInicioSesion = {navController.navigate(Routes.InicioSesion.routes)},
-                login = painterResource(R.drawable.login_verde))
+                onInicioSesion = { navController.navigate(Routes.InicioSesion.routes) },
+                inicio = painterResource(R.drawable.home),
+                comprar = painterResource(R.drawable.pie_comprar_login_1),
+                login = painterResource(R.drawable.login_verde),
+                mensajes = painterResource(R.drawable.pie_mensajes_login_1),
+                tareas = painterResource(R.drawable.pie_tareas_login_1)
+            )
         },
 
         ) { innerPadding ->

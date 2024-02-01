@@ -1,154 +1,266 @@
 [
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_medium.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_medium.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_login_verde.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\login_verde.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_bold_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_bold_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_cabecera_ajuste.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\cabecera_ajuste.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_extrabold_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_extrabold_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_tareas_login_1.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_tareas_login_1.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_bold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_bold.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_bold.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_inicio_session_login_1.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_inicio_session_login_1.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_regular.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_inicio_rectangle_4.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\inicio_rectangle_4.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_foro_rectangle_6.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\foro_rectangle_6.xml"
     },
     {
-        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable_home.png.flat",
-        "source": "com.example.dint_1_lladosapp-main-53:/drawable/home.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_light_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_light_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_light.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_light.ttf"
     },
     {
-        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable_login_verde.png.flat",
-        "source": "com.example.dint_1_lladosapp-main-53:/drawable/login_verde.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp_boton1.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp_boton1.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_light.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_light.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_cabecera_logo.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\cabecera_logo.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_comprar_login_1.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_comprar_login_1.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_regular.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_regular.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_medium_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_medium_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_mensajes_login_1.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_mensajes_login_1.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_cabecera_logo.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\cabecera_logo.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_extralight.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_extralight.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_cabecera_ajuste.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\cabecera_ajuste.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp2_boton2.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp2_boton2.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_inicio_login_1.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_inicio_login_1.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_inicio_session_login_1.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_inicio_session_login_1.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_inicio_ellipse_5.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\inicio_ellipse_5.xml"
     },
     {
-        "merged": "com.example.dint_1_lladosapp-merged_res-51:/drawable_preferencia_verde.png.flat",
-        "source": "com.example.dint_1_lladosapp-main-53:/drawable/preferencia_verde.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_bold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_extrabold.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_extrabold.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_semibold.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_semibold.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_compra_verde.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\compra_verde.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_semibold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_semibold.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_semibold_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_semibold_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_inicio_rectangle_2.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\inicio_rectangle_2.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_tareas_login_1.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_tareas_login_1.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_home.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\home.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_mensajes_login_1.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_mensajes_login_1.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_inicio_rectangle_5.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\inicio_rectangle_5.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_extrabold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp_boton2.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp_boton2.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_inicio_login_1.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_inicio_login_1.png"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_extrabold_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_extrabold_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_medium_italic.ttf.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_medium_italic.ttf"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_bold_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_bold_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_regular.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_black.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp2_boton1.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp2_boton1.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_preferencia_verde.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\preferencia_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_mensajes_verde.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\mensajes_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_medium.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_foro_real_rectangle_7.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\foro_real_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_light.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_inicio_ellipse_3.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\inicio_ellipse_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_light_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_light_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable_tareas_verde.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\drawable\\tareas_verde.png"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp_boton.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp_boton.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_semibold_italic.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_semibold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_medium.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_millon_supp2_boton.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\millon_supp2_boton.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_semibold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_inter_thin.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_inter_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_foro_real_rectangle_6.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\foro_real_rectangle_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_black_han_sans_regular.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_black_han_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_foro_rectangle_7.xml.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\foro_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\drawable-nodpi_pie_comprar_login_1.png.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\drawable-nodpi\\pie_comprar_login_1.png"
+    },
+    {
+        "merged": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-merged_res-51:\\font_relay_open_sans_extrabold.ttf.flat",
+        "source": "C:\\Users\\josel\\.gradle\\daemon\\8.0\\com.example.dint_1_lladosapp-relay-47:\\font\\relay_open_sans_extrabold.ttf"
     }
 ]

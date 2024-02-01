@@ -4,24 +4,24 @@
             "outputFile": "com.example.dint_1_lladosapp-mergeDebugResources-49:/values-ne/values-ne.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\usuariot\\.gradle\\caches\\transforms-3\\c8d3dbbcc37b7255cac4e72d4b5de44b\\transformed\\core-1.10.0\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\josel\\.gradle\\caches\\transforms-3\\297bfc3f5cd053c4f79705826a3ee115\\transformed\\material3-1.0.0\\res\\values-ne\\values-ne.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,261,363,469,567,667,775",
-                        "endColumns": "102,102,101,105,97,99,107,100",
-                        "endOffsets": "153,256,358,464,562,662,770,871"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,139,210",
+                        "endColumns": "83,70,83",
+                        "endOffsets": "134,205,289"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,311,413,519,617,717,2273",
-                        "endColumns": "102,102,101,105,97,99,107,100",
-                        "endOffsets": "203,306,408,514,612,712,820,2369"
+                        "startLines": "11,14,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1014,1289,1446",
+                        "endColumns": "83,70,83",
+                        "endOffsets": "1093,1355,1525"
                     }
                 },
                 {
-                    "source": "C:\\Users\\usuariot\\.gradle\\caches\\transforms-3\\eca48feadccd6b7c34c6eeaa1851f3e2\\transformed\\ui-release\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\josel\\.gradle\\caches\\transforms-3\\eca48feadccd6b7c34c6eeaa1851f3e2\\transformed\\ui-release\\res\\values-ne\\values-ne.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\usuariot\\.gradle\\caches\\transforms-3\\297bfc3f5cd053c4f79705826a3ee115\\transformed\\material3-1.0.0\\res\\values-ne\\values-ne.xml",
+                    "source": "C:\\Users\\josel\\.gradle\\caches\\transforms-3\\c8d3dbbcc37b7255cac4e72d4b5de44b\\transformed\\core-1.10.0\\res\\values-ne\\values-ne.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,139,210",
-                        "endColumns": "83,70,83",
-                        "endOffsets": "134,205,289"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,261,363,469,567,667,775",
+                        "endColumns": "102,102,101,105,97,99,107,100",
+                        "endOffsets": "153,256,358,464,562,662,770,871"
                     },
                     "to": {
-                        "startLines": "11,14,16",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "1014,1289,1446",
-                        "endColumns": "83,70,83",
-                        "endOffsets": "1093,1355,1525"
+                        "startLines": "2,3,4,5,6,7,8,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,311,413,519,617,717,2273",
+                        "endColumns": "102,102,101,105,97,99,107,100",
+                        "endOffsets": "203,306,408,514,612,712,820,2369"
                     }
                 }
             ]

@@ -40,8 +40,11 @@ fun Preferencias(navController: NavHostController) {
                 onMensaje = {navController.navigate(Routes.Mensaje.routes)},
                 onTarea = {navController.navigate(Routes.SalaTu1millon.routes)},
                 onInicioSesion = { navController.navigate(Routes.InicioSesion.routes) },
-                inicio = painterResource(R.drawable.home)
-
+                inicio = painterResource(R.drawable.home),
+                comprar = painterResource(R.drawable.pie_comprar_login_1),
+                login = painterResource(R.drawable.pie_inicio_session_login_1),
+                mensajes = painterResource(R.drawable.pie_mensajes_login_1),
+                tareas = painterResource(R.drawable.pie_tareas_login_1)
             )
         },
 
